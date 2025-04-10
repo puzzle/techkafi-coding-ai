@@ -27,6 +27,7 @@
 
 ## Puzzle Coding AI Strategy
 
+
 * Gain experience with tools available today
 * Exchange our experiences
 * Use tools consciously
@@ -268,10 +269,17 @@ Lint auto-fixes are now also free
 
 ## Diskussion
 
-Authors: \
-Daniel Tschan
+Author:
+Daniel Tschan,
 Puzzle ITC
 
 Licensed under the terms of the GNU GPL-3.0 license.
+<!-- .element style="margin-bottom: 1em;" --->
 
-https://github.com/puzzle/tws24-fullstack-rust-slides
+<div style="display: flex; align-items: center;">
+    <img src="images/qr-code.png" alt="QR Code" style="width: 200px; height: 200px;">
+
+[https://puzzle.github.io/techkafi-coding-ai](https://puzzle.github.io/techkafi-coding-ai)
+<!-- .element style="margin-bottom: 1em;" --->
+
+</div>
