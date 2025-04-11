@@ -56,11 +56,17 @@
 
 ## Order Coding AI Licenses
 
+<div>
+
 * Get ok for AI usage from customers
-* Remove unencrypted credentials from repositories
+* Remove or ignore unencrypted credentials from repositories
   * e.g. with [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+  * e.g. `.codeiumignore` in Windsurf
 * Windsurf and other licenses can be ordered via backoffice
   * https://wiki.puzzle.ch/Puzzle/CodingAIs
+
+</div>
+<!-- .element style="font-size: 0.85em;" --->
 
 -*-*-
 
@@ -77,7 +83,7 @@
 -*-*-
 
 
-## Ignoring Files
+## Ignore Files
 
 By default Windsurf ignores:
 * Paths specified in `.gitignore`
@@ -111,6 +117,16 @@ https://www.reddit.com/r/Codeium/comments/1hqzieb/windsurf_112_on_win_11_not_abl
 
 -*-*-
 
+## Code Lenses
+
+`Explain`, `Refactor`, and `Add Docstring` links at top of editor
+<!-- .element style="font-size: 0.85em;" --->
+
+
+![Code Lenses](images/code-lenses.png) <!-- .element height="90%" width="90%" style="margin-bottom: -1rem; margin-left: 2.5rem;" -->
+
+-*-*-
+
 ## Command Mode
 
 <div>
@@ -118,7 +134,7 @@ https://www.reddit.com/r/Codeium/comments/1hqzieb/windsurf_112_on_win_11_not_abl
 * Available in editors and terminals: `Ctrl` + `I`
 * Costs no credits for any model
 * Edits current selection or generates at cursor location
-* Ideal for class or function level edits, terminal tasks
+* Ideal for function level edits and terminal tasks
 
 </div>
 <!-- .element style="font-size: 0.95em;" --->
@@ -134,17 +150,6 @@ https://www.reddit.com/r/Codeium/comments/1hqzieb/windsurf_112_on_win_11_not_abl
 * Can execute terminal commands (write mode)
 * No undo as of yet, use Git
 * Send problems and errors to Cascade
-
-
--*-*-
-
-## Code Lenses
-
-`Explain`, `Refactor`, and `Add Docstring` links at top of editor
-<!-- .element style="font-size: 0.85em;" --->
-
-
-![Code Lenses](images/code-lenses.png) <!-- .element height="90%" width="90%" style="margin-bottom: -1rem; margin-left: 2.5rem;" -->
 
 -*-*-
 
@@ -209,7 +214,8 @@ Source: https://docs.windsurf.com/windsurf/models
 
 * Credits of all members are pooled together
 * There's currently no per member quota
-* Credit usage is shown in Cascade side bar: `...` => `Cascade Usage`
+* Credit usage is shown in Cascade side bar
+  * `...` => `Cascade Usage`
 * Or on https://windsurf.com/plan
 
 </div>
@@ -281,12 +287,17 @@ Source: https://docs.windsurf.com/windsurf/models
 
 ## Reasons to use AI consciously
 
+<div>
+
 * High power consumption:
     * [How much energy do LLMs consume? Unveiling the power behind AI](https://adasci.org/how-much-energy-do-llms-consume-unveiling-the-power-behind-ai/)
 * Dependency on AI tools
 * AI can negatively affect our ability to think and innovate:
   * [Is AI causing a decline in cognitive and creative skills?](https://www.unleash.ai/artificial-intelligence/is-ai-causing-a-decline-in-cognitive-and-creative-skills/)
   * [Idiocracy is becoming real](https://www.youtube.com/watch?v=TtDWDWY_7Bc&t=375s)
+
+</div>
+<!-- .element style="font-size: 0.85em;" --->
 
 -*-*-
 
