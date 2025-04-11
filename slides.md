@@ -76,23 +76,6 @@
 
 -*-*-
 
-## Models as of April 2025
-
-| Model                        | Prompt Credits  | Free | Pro/Ultimate | Teams | Image Upload |
-|------------------------------|-----------------|------|--------------|-------|--------------|
-| GPT-4o                       | 1               | ✓    | ✓            | ✓     | ✓            |
-| Claude 3.5 Sonnet            | 1               | ✓    | ✓            | ✓     | ✓            |
-| Claude 3.7 Sonnet            | 1               | ✓    | ✓            | ✓     | ✓            |
-| Claude 3.7 Sonnet (Thinking) | 1.25            | ✓    | ✓            | ✓     | ✓            |
-| DeepSeek-V3-0324             | 0               |      | ✓            |       |              |
-| DeepSeek-R1                  | 0.5             |      | ✓            |       |              |
-| o3-mini (medium)             | 1               |      | ✓            | ✓     |              |
-| Gemini 2.0 Flash             | 0.25            | ✓    | ✓            | ✓     |              |
-| Gemini 2.5 Pro               | 1               | ✓    | ✓            |       |              |
-| Cascade Base ⚡               | 0               | ✓    | ✓            | ✓     |              |
-<!-- .element style="font-size: 0.5em;" --->
-
--*-*-
 
 ## Ignoring Files
 
@@ -171,8 +154,67 @@ https://www.reddit.com/r/Codeium/comments/1hqzieb/windsurf_112_on_win_11_not_abl
 
 ![Windsurf Credits](images/windsurf-credits.png) <!-- .element height="90%" width="90%" style="margin-bottom: -1rem; margin-left: 2.5rem;" -->
 
-Lint auto-fixes are now also free
-<!-- .element style="font-size: 0.85em;" --->
+<div>
+
+* Lint auto-fixes are now also free
+* When plan credits are used up, Flex credits can be bought
+* Flex credits can be used for prompts and flow actions
+
+</div>
+<!-- .element style="font-size: 0.8em; margin-top: 1rem;" --->
+
+-*-*-
+
+## Models as of 2025-04-11
+
+| Model                        | Prompt Credits  | Free | Pro/Ultimate | Teams | Image Upload |
+|------------------------------|-----------------|------|--------------|-------|--------------|
+| GPT-4o                       | 1               | ✓    | ✓            | ✓     | ✓            |
+| Claude 3.5 Sonnet            | 1               | ✓    | ✓            | ✓     | ✓            |
+| Claude 3.7 Sonnet            | 1               | ✓    | ✓            | ✓     | ✓            |
+| Claude 3.7 Sonnet (Thinking) | 1.25            | ✓    | ✓            | ✓     | ✓            |
+| DeepSeek-V3-0324             | 0               |      | ✓            |       |              |
+| DeepSeek-R1                  | 0.5             |      | ✓            |       |              |
+| o3-mini (medium)             | 1               |      | ✓            | ✓     |              |
+| Gemini 2.0 Flash             | 0.25            | ✓    | ✓            | ✓     |              |
+| Gemini 2.5 Pro               | 1               | ✓    | ✓            |       |              |
+| xAI Grok-3                   | 1               |      | ✓            |       |              |
+| xAI Grok-3 mini (Thinking)	 | 0.125           |      | ✓            |       |              |
+| Cascade Base ⚡               | 0               | ✓    | ✓            | ✓     |              |
+<!-- .element style="font-size: 0.5em;" --->
+
+Source: https://docs.windsurf.com/windsurf/models
+<!-- .element style="font-size: 0.5em;" --->
+
+-*-*-
+
+## Model Tips
+
+<div>
+
+* Use Cascade Base first
+* If it can't solve a problem, change to Claude 3.5
+* Claude 3.5 has currently the best Cascade integration
+* Experiment with other models
+
+</div>
+
+<!-- .element style="font-size: 0.9em;" --->
+
+-*-*-
+
+## Model & Credit Tips
+
+<div>
+
+* Credits of all members are pooled together
+* There's currently no per member quota
+* Credit usage is shown in Cascade side bar: `...` => `Cascade Usage`
+* Or on https://windsurf.com/plan
+
+</div>
+
+<!-- .element style="font-size: 0.9em;" --->
 
 -*-*-
 
