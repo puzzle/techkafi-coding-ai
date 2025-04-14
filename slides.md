@@ -90,7 +90,7 @@ By default Windsurf ignores:
 * Hidden files i.e. `.*`
 * `node_modules` directory
 
-You can use `.codeiumignore` to add additional patterns to ignore.
+You can use `.codeiumignore` to add additional patterns to ignore, same format as `.gitignore`.
 
 -*-*-
 
