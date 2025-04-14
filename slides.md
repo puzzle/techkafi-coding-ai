@@ -129,9 +129,12 @@ https://www.reddit.com/r/Codeium/comments/1hqzieb/windsurf_112_on_win_11_not_abl
 
 ## AI Commit Messages
 
-* Windsurf can generate commit messages
-* Integrated in Source Control side bar
-* Open With `Ctrl` + `Shift` + `G`
+Windsurf can generate commit messages:
+
+![AI Commit Messages](images/ai-commit-msg.png) <!-- .element height="80%" width="80%" style="margin-bottom: -1rem; margin-left: 5rem;" -->
+
+-*-*-
+
 
 ## Command Mode
 
