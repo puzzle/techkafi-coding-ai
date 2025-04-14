@@ -127,6 +127,12 @@ https://www.reddit.com/r/Codeium/comments/1hqzieb/windsurf_112_on_win_11_not_abl
 
 -*-*-
 
+## AI Commit Messages
+
+* Windsurf can generate commit messages
+* Integrated in Source Control side bar
+* Open With `Ctrl` + `Shift` + `G`
+
 ## Command Mode
 
 <div>
