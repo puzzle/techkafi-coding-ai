@@ -27,7 +27,7 @@
 
 ## Puzzle Coding AI Strategy
 
-
+* Get ok for AI usage from customers
 * Gain experience with tools available today
 * Exchange our experiences
 * Use tools consciously

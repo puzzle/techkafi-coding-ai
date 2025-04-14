@@ -1,3 +1,6 @@
+*.bak
+notes.md
+
 node_modules/
 .vscode/
 attachments/
