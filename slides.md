@@ -157,8 +157,15 @@ Windsurf can generate commit messages:
   * Type `continue` if trajectory stops
 * Can edit multiple files per prompt (write mode)
 * Can execute terminal commands (write mode)
-* No undo as of yet, use Git
+
+-*-*-
+
+## Cascade
+
 * Send problems and errors to Cascade
+* Send terminal output to Cascade
+  * Select output, then `Ctrl` + `L`
+* No undo as of yet, use Git
 
 -*-*-
 
@@ -270,6 +277,7 @@ Source: https://docs.windsurf.com/windsurf/models
 
 <div>
 
+* Use instead of Search Engine & Copy & Paste
 * Bootstrap project
 * Explain code
 * Refactor code
@@ -279,7 +287,7 @@ Source: https://docs.windsurf.com/windsurf/models
 * Support bug fixing
 
 </div>
-<!-- .element style="font-size: 0.9em;" --->
+<!-- .element style="font-size: 0.8em;" --->
 
 -*-*-
 
