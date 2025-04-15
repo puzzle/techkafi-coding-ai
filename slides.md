@@ -62,8 +62,10 @@
 * Remove or ignore unencrypted credentials from repositories
   * e.g. with [TruffleHog](https://github.com/trufflesecurity/trufflehog)
   * e.g. `.codeiumignore` in Windsurf
+* Check budget on [Wiki page](https://wiki.puzzle.ch/Puzzle/CodingAIs)
 * Windsurf and other licenses can be ordered via backoffice
   * https://wiki.puzzle.ch/Puzzle/CodingAIs
+* Add license on [Wiki page](https://wiki.puzzle.ch/Puzzle/CodingAIs) to update budget
 
 </div>
 <!-- .element style="font-size: 0.85em;" --->
